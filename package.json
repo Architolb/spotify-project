@@ -1,7 +1,6 @@
 {
   "name": "spotify-project",
   "version": "1.0.0",
-  "description": "",
   "main": "spotify.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "querystring": "^0.2.1"
-  }
+    "express": "^4.18.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Architolb/spotify-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Architolb/spotify-project/issues"
+  },
+  "homepage": "https://github.com/Architolb/spotify-project#readme",
+  "description": ""
 }
