@@ -1,3 +1,9 @@
+
+// step1. figure out how to get accesss token, ran in to blockers whe using async, request, stc
+
+
+
+
 // var querystring = require('querystring');
 // var axios = require ('axios') 
 var client_id = '502f5d0de86046469e08294afdfd0be2'; // Your client id
